@@ -70,7 +70,7 @@ Check out the template in action:
 The full template is available for 1 SOL. Once payment is received, you'll get access to the private GitHub repository.
 
 ### Wallet Address
-**Db45A6qfpNDjfneXqa8MMCkUL78ngmCFdDsh82tN5g42**
+**2mnRNZ1bgDQxVvzJEM3KX2Cb4pns1PnQtvbwAN8kWnYAXB5wPk1iGVXJoe3XtFTNwazg3Km2nucjiTFfBkzxemCQ**
 
 For inquiries, please DM me @coopjl on Telegram.
 
